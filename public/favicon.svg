@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="জনসেবা">
+  <rect width="64" height="64" rx="14" fill="#FFFCF5"/>
+  <path d="M-4 48C10 36 22 27 34 17c8-7 15-12 22-17h16v10c-9 6-17 13-25 20C33 41 20 52 8 64H-4Z" fill="#D6283E"/>
+  <path d="M4 54C18 42 30 33 42 23c8-7 15-12 22-17v10c-9 6-17 13-25 20C27 47 14 58 2 64H4Z" fill="#0F6B4F"/>
+  <path d="M14 58c12-10 22-18 32-26 8-7 15-12 22-17v10c-9 6-17 13-25 20C35 52 24 60 14 64Z" fill="#F4B400"/>
+  <circle cx="32" cy="30" r="15" fill="#FFFCF5"/>
+  <text x="32" y="38" text-anchor="middle" font-family="Noto Serif Bengali, serif" font-size="21" font-weight="700" fill="#17231C">আ</text>
+</svg>

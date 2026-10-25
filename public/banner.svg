@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 620" fill="none" preserveAspectRatio="xMidYMid slice" role="img" aria-label="লাল, সবুজ ও হলুদ রঙের হাতে আঁকা ব্রাশস্ট্রোক">
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <!-- Deep red, green and marigold diagonal brush strokes. -->
+    <path d="M-260 650C180 510 560 350 900 200C1140 95 1350 10 1660 -75" stroke="#D6283E" stroke-width="112" opacity="0.97"/>
+    <path d="M-260 505C180 365 560 210 900 65C1140 -40 1350 -125 1660 -210" stroke="#0F6B4F" stroke-width="96" opacity="0.97"/>
+    <path d="M-260 360C180 220 560 70 900 -75C1140 -180 1350 -265 1660 -350" stroke="#F4B400" stroke-width="108" opacity="0.98"/>
+    <path d="M-260 215C180 75 560 -70 900 -215C1140 -320 1350 -405 1660 -490" stroke="#D6283E" stroke-width="88" opacity="0.96"/>
+    <path d="M-260 70C180 -70 560 -210 900 -355C1140 -460 1350 -545 1660 -630" stroke="#0F6B4F" stroke-width="102" opacity="0.97"/>
+    <path d="M-260 -75C180 -215 560 -350 900 -495C1140 -600 1350 -685 1660 -770" stroke="#F4B400" stroke-width="84" opacity="0.98"/>
+    <path d="M-260 -220C180 -360 560 -490 900 -635C1140 -740 1350 -825 1660 -910" stroke="#D6283E" stroke-width="94" opacity="0.96"/>
+    <path d="M-260 -365C180 -505 560 -630 900 -775C1140 -880 1350 -965 1660 -1050" stroke="#0F6B4F" stroke-width="78" opacity="0.97"/>
+
+    <!-- Thin accent strokes add a hand-painted rhythm without making the banner busy. -->
+    <path d="M-160 600C260 460 620 310 950 165C1180 65 1380 -15 1640 -95" stroke="#A81C2F" stroke-width="14" opacity="0.3"/>
+    <path d="M-160 455C260 315 620 165 950 20C1180 -80 1380 -160 1640 -240" stroke="#0A4E39" stroke-width="11" opacity="0.24"/>
+    <path d="M-160 310C260 170 620 20 950 -125C1180 -225 1380 -305 1640 -385" stroke="#FFE8A3" stroke-width="16" opacity="0.34"/>
+    <path d="M-160 165C260 25 620 -120 950 -265C1180 -365 1380 -445 1640 -525" stroke="#A81C2F" stroke-width="9" opacity="0.22"/>
+
+    <!-- Small dry-brush flecks near the painted edge. -->
+    <ellipse cx="26" cy="545" rx="18" ry="7" fill="#D6283E" opacity="0.35" transform="rotate(-28 26 545)"/>
+    <ellipse cx="74" cy="470" rx="12" ry="5" fill="#0F6B4F" opacity="0.3" transform="rotate(-28 74 470)"/>
+    <ellipse cx="18" cy="392" rx="15" ry="6" fill="#F4B400" opacity="0.4" transform="rotate(-28 18 392)"/>
+    <ellipse cx="58" cy="300" rx="9" ry="4" fill="#D6283E" opacity="0.28" transform="rotate(-28 58 300)"/>
+  </g>
+</svg>
